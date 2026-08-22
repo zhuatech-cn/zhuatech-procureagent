@@ -1,4 +1,4 @@
-/* Copyright 2026 上海如静知华信息科技有限公司 */
+/* Copyright 2026 上海如静知华信息科技有限公司 · https://www.zhuatech.cn/ */
 package cn.zhuatech.procureagent.agent;
 import org.springframework.stereotype.Component; import java.util.List; import java.util.Map;
 /** 企业采购智能体协同平台运行边界；默认演示执行器不连接真实模型、业务系统或外部通信渠道。 */
