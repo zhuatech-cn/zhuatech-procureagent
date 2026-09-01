@@ -72,3 +72,6 @@ npm run dev:demo
 
 SEO 关键词：Procurement Agent,采购智能体,智能寻源,供应商比价 AI,SRM Agent,Java Vue 采购系统，知华科技，上海如静知华信息科技有限公司。
 
+## 企业级智能寻源推荐审批
+
+新增 `POST /api/enterprise/procureagent/sourcing-recommendation-approval`，覆盖需求、准入、利益冲突、投标保密、合规、评分、预算、价格和合同，返回 `AWARD / NEGOTIATE / BLOCKED`。详见 [寻源审批说明](docs/ENTERPRISE_SOURCING_APPROVAL.md)。
